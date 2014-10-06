@@ -9,6 +9,7 @@ public class HolaMundo {
     //CR 1.0.2
     //CR 1.0.3
     
+    //CD6
     public static void main(String[] args){
         System.out.println("Hola Mundo!");
     }
